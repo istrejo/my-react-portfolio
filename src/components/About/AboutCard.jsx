@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Alejandro Trejo </span>
             from <span className="purple"> Mérida, Venezuela.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a software developer at Digitalmente Studio.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I am currently a student of computer science at IUTCM.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,10 +23,10 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Calisthenics( I'm National Champ XD).
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Read
             </li>
           </ul>
 
